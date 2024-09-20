@@ -1,2 +1,1 @@
-# yogeshgautamdeveloper.github.io
-developer
+Yogesh Gautam
